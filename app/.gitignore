@@ -6,4 +6,3 @@ prebuilts
 .DS_Store
 local.properties
 .gradle
-app/libs/
